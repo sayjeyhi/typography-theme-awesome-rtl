@@ -1,6 +1,6 @@
 {
   "name": "typography-theme-awesome-rtl",
-  "version": "1.0.0",
+  "version": "1.0.01",
   "description": "An RTL simple theme for Typography.js",
   "main": "lib/index.js",
   "scripts": {
