@@ -6,7 +6,7 @@
 ## Install
 
 ```bash
-npm install --save typography typography-awesome-rtl
+npm install --save typography typography-theme-awesome-rtl
 ```
 
 ## Usage
