@@ -11,19 +11,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devrsi0n/typography-theme-pottery.git"
+    "url": "git+https://github.com/jafar-rezaei/typography-theme-awesome-rtl.git"
   },
   "keywords": [
     "typography",
     "typography-theme",
+    "typography-rt-theme",
     "css"
   ],
-  "author": "devrsi0n",
+  "author": "JafarRezaei",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/devrsi0n/typography-theme-pottery/issues"
+    "url": "https://github.com/jafar-rezaei/typography-theme-awesome-rtl/issues"
   },
-  "homepage": "https://github.com/devrsi0n/typography-theme-pottery#readme",
+  "homepage": "https://github.com/jafar-rezaei/typography-theme-awesome-rtl#readme",
   "dependencies": {
     "gray-percentage": "^2.0.0",
     "typeface-lalezarregular": "^1.0.1",
