@@ -1,6 +1,7 @@
 # Awesome RTL
 
-An RTL simple theme for [Typography.js](https://github.com/kyleamathews/typography.js)
+👌 An RTL simple theme for [Typography.js](https://github.com/kyleamathews/typography.js)
+
 
 ## Install
 
@@ -14,7 +15,10 @@ To use it, simply import the package in your project’s entry file e.g.
 
 ```javascript
 import Typography from 'typography';
-import potteryTheme from 'typography-theme-awesome-rtl';
+import awesomeRTL from 'typography-theme-awesome-rtl';
 
-const typography = new Typography(potteryTheme);
+const typography = new Typography(awesomeRTL);
 ```
+
+ 📋 Note : this theme will add and use `vazir` , `yekan` and `lalezar` typefaces.
+this fonts could applied with `-vazir` , `-yekan` and `-lalezar` class names.  

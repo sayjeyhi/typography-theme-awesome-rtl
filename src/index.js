@@ -6,7 +6,7 @@ import 'typeface-yekan';
 import 'typeface-vazir';
 import 'typeface-lalezarregular';
 
- export default {
+export default {
   title: 'Awesome_RTL',
   baseFontSize: '16px',
   baseLineHeight: 1.75,
@@ -22,11 +22,11 @@ import 'typeface-lalezarregular';
     body: {
       direction: 'rtl',
     },
-    'h1,.vazir': {
-      fontFamily: ['Vazir', 'sans-serif'].join(',')
+    'h1,.-vazir': {
+      fontFamily: ['Vazir', 'sans-serif'].join(','),
     },
-    '.yekan': {
-      fontFamily: ['Yekan', 'sans-serif'].join(',')
+    '.-yekan': {
+      fontFamily: ['Yekan', 'sans-serif'].join(','),
     },
     blockquote: {
       ...scale(1 / 5),
@@ -90,7 +90,7 @@ import 'typeface-lalezarregular';
       padding: `${rhythm(1 / 16)} ${rhythm(1 / 8)}`,
       textDecoration: 'none',
     },
-    '.sitename,.lalezar': {
+    '.sitename,.-lalezar': {
       fontFamily: 'Lalezar-Regular, sans-serif',
     },
     pre: {
@@ -102,4 +102,3 @@ import 'typeface-lalezarregular';
     },
   }),
 };
-
