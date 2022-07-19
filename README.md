@@ -20,5 +20,5 @@ import awesomeRTL from 'typography-theme-awesome-rtl';
 const typography = new Typography(awesomeRTL);
 ```
 
- 📋 Note : this theme will add and use `vazir` , `yekan` and `lalezar` typefaces.
-this fonts could applied with `-vazir` , `-yekan` and `-lalezar` class names.  
+ 📋 Note : This theme will add and use `vazir` , `yekan` and `lalezar` typefaces.
+these fonts could be used with `-vazir` , `-yekan` and `-lalezar` class names anywhere.  
