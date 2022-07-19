@@ -1,6 +1,6 @@
 # Awesome RTL
 
-👌 An RTL awesome simple theme for [Typography.js](https://github.com/kyleamathews/typography.js)
+👌 A RTL awesome simple theme for [Typography.js](https://github.com/kyleamathews/typography.js)
 
 
 ## Install
